@@ -1,7 +1,7 @@
 👾
 
 ### Hey, I’m Ryan.
-I'm Software Engineer, FE. Currently, I'm working at Cốc Cốc.
+I'm Software Engineer, FE based in Vietnam.
 
 <!--
 **ryando997/ryando997** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
